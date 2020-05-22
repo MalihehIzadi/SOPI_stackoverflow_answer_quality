@@ -7,3 +7,5 @@ utilizing the help of related experts.</p>
 our implementations of machine-learning algorithms using R, our labelled data, and 
 information about evaluators.
 An image describing our final model is shown below.</p>
+
+![Prediction Model](https://github.com/MalihehIzadi/SOPI_stackoverflow_answer_quality/blob/master/The%20final%20prediction%20model.jpg)
