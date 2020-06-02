@@ -7,6 +7,6 @@ utilizing the help of related experts.</p>
 our implementations of machine-learning algorithms using R, our labelled data, and 
 information about evaluators.
 An image describing our final model is shown below.
-Our paper is accessible from <a href="https://arxiv.org/abs/2006.00341">arxiv</a></p>
+Our paper is accessible from <a href="https://arxiv.org/abs/2006.00341">arxiv.</a></p>
 
 ![Prediction Model](https://github.com/MalihehIzadi/SOPI_stackoverflow_answer_quality/blob/master/The%20final%20prediction%20model.jpg)
